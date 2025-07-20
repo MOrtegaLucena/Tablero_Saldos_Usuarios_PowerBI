@@ -27,8 +27,12 @@ Toda la información precedente puede ser filtrada por:
 
 ### 🔗 Conexión a Fuentes de Datos
 
-- Conexión a base de datos web que contiene información personal de los usuarios.
-- Conexión a una base de datos PostgreSQL para acceder a las siguientes tablas:
+- Conexión a **base de datos web** que contiene información personal de los usuarios.
+    - **Extraer y leer datos de archivo en formato JSON.**
+
+<img width="1698" height="685" alt="image" src="https://github.com/user-attachments/assets/26d6efa7-564f-4106-99bf-0805199e914b" />
+
+- Conexión a una **base de datos PostgreSQL** para acceder a las siguientes tablas:
 - Tabla de movimientos/transacciones
 - Tabla de cargas impositivas y comisiones
 
